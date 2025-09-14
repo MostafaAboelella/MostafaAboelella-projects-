@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mostafa Ahmed  
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50%"/>
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="120"/>
 
 </div>
 
