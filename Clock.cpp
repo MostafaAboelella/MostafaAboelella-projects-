@@ -38,9 +38,10 @@ int main()
     
         cout<<hour<<":"<<min<<":"<<sec;
         sec++;
-        Sleep(1000); // make a delay after while sentance apply again & but it needs a <windows.h> library
+        Sleep(1200); // make a delay after while sentance apply again & but it needs a <windows.h> library
     }
     
+
 
 
 
