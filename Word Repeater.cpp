@@ -33,4 +33,5 @@ cin.ignore();
 cout<<"\n";
 spam(word,num,delay);
 
+return 0;
 }
