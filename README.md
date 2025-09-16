@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mostafa Ahmed  
+# My Simple Projects  
 
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="120"/>
 
@@ -24,14 +24,6 @@ Here are some  projects I built with **C++**:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-<div align="center">
-  
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaAboelella&show_icons=true&theme=radical)  
-
-</div>
-
 ---
 
 ## 📫 Connect with me
