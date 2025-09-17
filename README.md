@@ -8,15 +8,7 @@
 
 ---
 
-## 🛠️ Projects (C++)
-Here are some  projects I built with **C++**:
 
-- ⏰ **Digital Clock** — *Console-based real-time clock*  
-- ⏳ **Countdown Timer** — *User sets minutes & seconds, program counts down*  
-- 🧮 **Scientific Calculator** — *Supports sum, sub, mult, div, power, sin, cos, tan*  
-- 🔁 **Word Repeater** — *Repeats words infinitely with loop & delay*  
-
----
 
 ## 🛠️ Tools & Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
